@@ -1,0 +1,7 @@
+1 orca 7914.0 C
+2 spinner 102645.12 S
+3 striped 2142.63 A
+4 baiji 155.55 C
+5 bottlenose 10995.7 S
+6 hourglass 17070.64 A
+7 irrawaddy 5212.95 C
